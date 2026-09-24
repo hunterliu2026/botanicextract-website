@@ -120,10 +120,12 @@ function forwardTranscript() {
     product: "Website chat"
   };
   try {
+    /* 用表单编码发送(application/x-www-form-urlencoded): 这是"简单请求",
+       浏览器不会发 CORS 预检, 在任何网络环境/插件下都和询盘表单一样可靠。
+       之前用 JSON+cors 模式会被部分网络环境的预检拦掉, 导致邮件收不到。 */
     fetch(FORMSPREE, {
       method: "POST",
-      headers: { "Content-Type": "application/json", "Accept": "application/json" },
-      body: JSON.stringify(payload)
+      body: new URLSearchParams(payload)
     }).catch(function () {});
   } catch (e) { /* 静默失败, 不影响聊天 */ }
 }
