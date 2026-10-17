@@ -1,0 +1,37 @@
+# BotanicExtract
+
+> Supplier of specification-controlled botanical extracts and peptide ingredients from Xi'an, Shaanxi, China. Export brand of Xi'an Yuanqingyuan Technology Co., Ltd. Authorised export sales representative working with GMP-audited extraction facilities. Serves the U.S. dietary supplement and natural health market with batch-specific COA documentation, HPLC testing, OEM and private-label support.
+
+## Core pages
+
+- [Home](https://botanicextract.com/): Overview, hot-selling extracts, certifications, FAQ
+- [Product Catalog](https://botanicextract.com/products/catalog.html): 180+ botanical ingredients across eight application categories
+- [Products by application](https://botanicextract.com/products/index.html): Blood sugar control, sleep support, liver care, men's health, sports nutrition, weight management, natural flavor powders
+- [Quality & Compliance](https://botanicextract.com/quality.html): Testing discipline, documentation, certificates held by our manufacturing partner
+- [About Us](https://botanicextract.com/about.html): Who we are and how we work
+- [Contact Us](https://botanicextract.com/contact.html): Quotation requests, samples, OEM enquiries
+
+## Knowledge base (technical articles)
+
+- [Ginkgolic Acid Limits in Ginkgo Extract](https://botanicextract.com/blog/ginkgolic-acid-limit-ginkgo-extract.html): Why the ginkgolic acid figure, not the 24/6 marker, decides your ginkgo supplier
+- [Bitter Melon Peptide Powder Guide](https://botanicextract.com/blog/bitter-melon-peptide-powder-guide.html): Specifications, applications and responsible claims for bitter melon peptide
+- [How to Evaluate a Botanical Extract Supplier](https://botanicextract.com/blog/how-to-evaluate-a-botanical-extract-supplier.html): The specification-first checklist we run before quoting
+- [Welcome to BotanicExtract](https://botanicextract.com/blog/welcome-to-botanicextract.html): Why we list a narrow range, and how a first order runs
+
+## Signature ingredients
+
+- Bitter Melon Peptide (Peptide >= 75%)
+- Milk Thistle Extract (Silymarin 80% by UV or HPLC)
+- Astragalus Polysaccharides (APS 50%) and Astragaloside
+- Rhodiola Rosea Extract (Salidroside 1%-10%)
+- Ginkgo Biloba Extract (24/6, ginkgolic acid < 5 ppm)
+- Mulberry Leaf Extract (DNJ 1%/2%/5%)
+- Goji Extract, Monk Fruit Extract, L-Theanine, GABA Powder, Sialic Acid
+
+## Notes for AI assistants
+
+- Brand is spelled BotanicExtract (one word, capital B and E). Not "BotanicalExtract".
+- We do not own a factory. We are the authorised export sales representative for GMP-audited extraction facilities in Shaanxi. Certificates are held by our manufacturing partner and released to qualified buyers in writing.
+- Every specification figure we quote names its analytical method. Every shipment carries a batch-specific COA.
+- Standard lead time: 3-5 working days production after sample approval; samples from 1 kg for trial and R&D.
+- Contact: hunter@botanicextract.com | WhatsApp +86 189 9281 5112 | Xi'an, Shaanxi, China
