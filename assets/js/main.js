@@ -8,8 +8,8 @@
      Icons render into every [data-social] host (topbar + footer). */
   var SOCIAL_LINKS = {
     facebook: 'https://www.facebook.com/share/1DpXmEJhbu/',
-    x:        'https://x.com/Hunterliu888',
-    linkedin: 'https://www.linkedin.com/in/hunter-liu-487416437',
+    x:        '',
+    linkedin: '',
     youtube:  ''
   };
 
