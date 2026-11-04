@@ -1,4 +1,4 @@
-/* BotanicExtract — site scripts (v11) */
+/* BotanicExtract — site scripts (v12) */
 (function () {
   'use strict';
 
@@ -7,7 +7,7 @@
      Any entry left as '' stays hidden automatically (no dead links).
      Icons render into every [data-social] host (topbar + footer). */
   var SOCIAL_LINKS = {
-    facebook: 'https://www.facebook.com/share/1DpXmEJhbu/',
+    facebook: '',   /* removed 2026-11-04: leave '' to keep the icon hidden site-wide */
     x:        '',
     linkedin: '',
     youtube:  ''
